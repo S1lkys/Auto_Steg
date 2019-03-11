@@ -1,4 +1,6 @@
-## Auto_Steg 
+# Auto_Steg 
+```
+```
 # Description
 ```
 A simple Bash program which automates the extraction of Files from a JPG-File with Steghide
