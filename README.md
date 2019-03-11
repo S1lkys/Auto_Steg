@@ -1,11 +1,7 @@
-# Auto_Steg
-A simple Bash program which automates the extraction of Files from a JPG-File with Steghide
-
-
-
-
+###Auto_Steg###
 # Description
-```A simple Bash program which automates the extraction of Files from a JPG-File with Steghide
+```
+A simple Bash program which automates the extraction of Files from a JPG-File with Steghide
 ```
 
 ## Usage of Auto_LFI
