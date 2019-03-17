@@ -6,6 +6,5 @@ picture="${picture}"
 count_pass=$(wc -l $wl_pass | cut -d " " -f1)
 
 for fn in `cat $wl_pass`; do
-steghide extract -sf $picture -p $fn
+steghide extract -sf $picture -p $fn &&  echo 'Password found: '$fn && break;
 done
-
